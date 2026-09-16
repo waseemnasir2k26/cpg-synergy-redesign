@@ -2,6 +2,10 @@
 
 5 unique design variants for the CPG Synergy marketing platform.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ## Designs
 1. **The Authority** — Dark luxury power funnel
 2. **The Trust Builder** — Light social-proof funnel
