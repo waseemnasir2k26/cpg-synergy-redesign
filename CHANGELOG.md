@@ -2,6 +2,13 @@
 
 All notable changes to this project are documented in this file.
 
+## [2026.10] - 2026-10-12
+
+- cpg-synergy-redesign is a public Create React App project with 5 design variants (Authority, Trust Builder, Closer, Storyteller, Minimalist) of a marketing site for CPG Synergy, React 19 + framer-motion + react-router-dom, configured for Vercel.
+- State: no commits since the 2026.09 release (2026-09-16); the design work dates from 2026-03-11. No application code changed this month.
+- Reviewed October 2026: README status, commit history and link check (the README contains no external links); package version bumped 0.2.0 -> 0.3.0 for the release; a Work with SkynetLabs section was added.
+- Known gaps: README deploy steps still contain the placeholder YOUR_GITHUB_REPO_URL and say 'main' though the default branch is master; no LICENSE; CRA test dependencies present with no committed tests; no live URL stated.
+
 ## [2026.09] - 2026-09-16
 
 - Maintenance review of cpg-synergy-redesign — a Create React App project holding 5 complete design variants (Authority, Trust Builder, Closer, Storyteller, Minimalist) for the CPG Synergy marketing site.

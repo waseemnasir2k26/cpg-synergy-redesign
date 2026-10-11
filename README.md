@@ -4,7 +4,7 @@
 
 ## Status
 
-Last reviewed: September 2026 · release v2026.09
+Last reviewed: October 2026 · release v2026.10
 
 ## Designs
 1. **The Authority** — Dark luxury power funnel
@@ -31,3 +31,12 @@ Then connect the repo to Vercel for automatic deployments.
 
 ## Design Switcher
 Use the floating toolbar at the bottom of the page to switch between designs.
+
+
+## Work with SkynetLabs
+
+Built by [Waseem Nasir](https://www.skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=cpg-synergy-redesign) at SkynetLabs — n8n + AI automation for small businesses.
+
+- Hire on Fiverr: https://www.fiverr.com/agencies/skynetjoellc
+- Hire on Upwork: https://www.upwork.com/freelancers/muhammadwaseemnasir
+- Book a free call: https://calendly.com/skynetlabs/schedule-a-free-consultation
